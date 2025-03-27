@@ -1,5 +1,5 @@
 # Hi there, I'm Air-Suck! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Sans&size=30&pause=1000&color=0F2EF7&center=true&width=435&lines=Less+in+Life%2C+Peace+in+Heart)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Sans&size=30&pause=1000&color=54EDF7&center=true&width=435&lines=Less+in+Life%2C+Peace+in+Heart)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and contributing to open-source projects. Here's a bit more about me:
 
