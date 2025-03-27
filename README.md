@@ -1,4 +1,5 @@
 # Hi there, I'm Air-Suck! 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Less in Life, Peace in Heart)
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and contributing to open-source projects. Here's a bit more about me:
 
