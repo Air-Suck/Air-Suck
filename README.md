@@ -4,17 +4,15 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ## 💻 Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Cloud:** AWS, Azure, Google Cloud Platform
+- **Languages:** C, Rust, Python, Java, Go, C++
+- **Tools:** Git, Docker
 
 ## 🌱 Currently Learning
 
-- Machine Learning and AI
-- Blockchain Development
-- Advanced Kubernetes Techniques
+- Embedded Systems
+- Operating System
+- mbodied Intelligence
+- Mechanical Control
 
 ## 📈 GitHub Stats
 
@@ -22,21 +20,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ## 📫 How to reach me
 
-- **Email:** air-suck@example.com
-- **LinkedIn:** [Air-Suck](https://www.linkedin.com/in/air-suck/)
-- **Twitter:** [@AirSuckDev](https://twitter.com/AirSuckDev)
-
-## 🏆 Achievements
-
-- Contributed to several open-source projects
-- Developed and maintained a popular JavaScript library
-- Speaker at multiple tech conferences
+- **Email:** noahshi@126.com
+- **Blog:** [Air-Suck](https://www.imnoah.top/)
 
 ## 🎮 Hobbies
 
 - Gaming
 - Reading tech blogs
-- Hiking and outdoor activities
+- Sleepping~
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
 
