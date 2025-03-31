@@ -1,4 +1,4 @@
-# Hi there, I'm Air-Suck! 👋
+# Hi there, I'm Noah! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Sans&size=30&pause=1000&color=54EDF7&center=true&width=435&lines=Less+in+Life%2C+Peace+in+Heart)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and contributing to open-source projects. Here's a bit more about me:
@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 - Embedded Systems
 - Operating System
-- mbodied Intelligence
-- Mechanical Control
+- Embodied AI
+- Robot Control
 
 ## 📈 GitHub Stats
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ## 📫 How to reach me
 
 - **Email:** noahshi@126.com
-- **Blog:** [Air-Suck](https://www.imnoah.top/)
+- **Blog:** [Noah'Blog](https://www.imnoah.top/)
 
 ## 🎮 Hobbies
 
